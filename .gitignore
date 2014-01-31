@@ -1,0 +1,11 @@
+
+.metadata/
+
+Thumbs.db
+.apk
+
+bin/
+.dex
+.class
+*.class
+.red
